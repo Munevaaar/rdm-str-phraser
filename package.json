@@ -1,0 +1,27 @@
+{
+  "name": "rdm-str-phraser",
+  "version": "1.0.0",
+  "description": "random string phraser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Munevaaar/rdm-str-phraser.git"
+  },
+  "keywords": [],
+  "author": "David Munevar <munevar.2122@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Munevaaar/rdm-str-phraser/issues"
+  },
+  "homepage": "https://github.com/Munevaaar/rdm-str-phraser#readme",
+  "bin": {
+    "rmd-str-phraser": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "rdm-str-phraser": "^1.0.0"
+  }
+}
